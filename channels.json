@@ -1,5 +1,5 @@
 {
-  "version": 99,
+  "version": 2,
   "providers": [
     {
       "id": "private-m3u",
@@ -63,7 +63,7 @@
     },
     {
       "id": "demo-hls",
-      "name": "Demo HLS · prueba VERSION",
+      "name": "Demo HLS",
       "category": "pruebas",
       "sources": [
         {
